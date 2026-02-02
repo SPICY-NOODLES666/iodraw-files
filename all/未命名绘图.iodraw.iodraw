@@ -271,6 +271,9 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-256" value="probability" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d0cee2;strokeWidth=2;strokeColor=#594563;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1300" y="640" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-257" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="480" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
