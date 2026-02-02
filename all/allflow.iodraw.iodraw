@@ -413,10 +413,10 @@
           <mxGeometry x="710.0032824707032" y="575" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-101" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="710" y="601" width="558" height="61" as="geometry" />
+          <mxGeometry x="710" y="601" width="547" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-103" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Scenario-aware battery prediction and adaptive power management strategies can significantly improve TTE estimation accuracy and energy efficiency.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="809" y="605" width="457" height="50" as="geometry" />
+          <mxGeometry x="809" y="605" width="454" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-104" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="710" y="675" width="548" height="69" as="geometry" />
