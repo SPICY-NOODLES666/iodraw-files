@@ -70,7 +70,7 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-26" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y6IpSEHA60PlJjzKSz_8-11" target="Y6IpSEHA60PlJjzKSz_8-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-27" value="Model II: Scenario-based TTE Prediction" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-27" value="Model II: Scenario-based TTE Prediction" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#d0cee2;strokeColor=#56517e;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="750" width="710" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-28" value="&lt;b&gt;State Moudle&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#9673a6;" vertex="1" parent="Y6IpSEHA60PlJjzKSz_8-27">
