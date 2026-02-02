@@ -22,10 +22,10 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-5" value="Problem Analysis&#xa;Smartphone Battery SOC &amp; TTE Modeling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1;fontSize=14;arcSize=20;dashed=1;strokeWidth=3;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-150" y="85" width="469" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SherLock Dataset (User Behavior)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#ae4132;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SherLock Dataset (User Behavior)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#15749d;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="179" y="-80" width="181" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-8" value="AOSP Power Profile&#xa;(Hardware Params)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#97D077;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-8" value="AOSP Power Profile&#xa;(Hardware Params)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#4c673c;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="-80" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-11" value="Preprocessing: Filter Charging States &amp; Outliers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
