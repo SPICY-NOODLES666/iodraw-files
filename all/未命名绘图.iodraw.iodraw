@@ -292,6 +292,21 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-76" value="probability" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-77" value="核心模型算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=#10202D;fontColor=#ffffff;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1750" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-78" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1EAF1;strokeColor=#23445D;fontColor=#23445D;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1850" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-79" value="性能评估指标" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffffff;strokeColor=#23445D;fontColor=#23445D;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1940" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4D4D4D;strokeWidth=1.5;" edge="1" parent="1" source="Y6IpSEHA60PlJjzKSz_8-77" target="Y6IpSEHA60PlJjzKSz_8-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#4D4D4D;strokeWidth=1.5;" edge="1" parent="1" source="Y6IpSEHA60PlJjzKSz_8-78" target="Y6IpSEHA60PlJjzKSz_8-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
