@@ -62,7 +62,7 @@
           <mxGeometry x="630" y="-125" width="550" height="205" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-161" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kaggle.com/static/images/site-logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-65" width="64.66" height="25" as="geometry" />
+          <mxGeometry x="190" y="-65" width="90.52" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gstatic.com/devrel-devsite/prod/v6dcfc5a6ab74baade852b535c8a876ff20ade102b870fd5f49da5da2dbf570bd/androidsource/images/lockup.png;" vertex="1" parent="1">
           <mxGeometry x="424.04" y="-87.5" width="141.92" height="45" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry x="270" y="-78.75" width="130" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-287" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#15749D;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-47.5" width="120" height="37.5" as="geometry" />
+          <mxGeometry x="275" y="-47.5" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-285" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;User Behavior&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="-42.5" width="75.5" height="22.5" as="geometry" />
