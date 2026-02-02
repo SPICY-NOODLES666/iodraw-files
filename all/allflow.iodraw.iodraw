@@ -332,10 +332,10 @@
           <mxGeometry x="9.950000000000045" y="211.47321178120612" width="120" height="35.84291725105189" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="980" y="100" width="300" height="200" as="geometry" />
+          <mxGeometry x="980" y="100" width="300" height="430" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="180" y="550" width="1080" height="210" as="geometry" />
+          <mxGeometry x="180" y="550" width="1100" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-56" value="Mode Transition Modeling&#xa;(Non-homogeneous Markov Chain)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1030" y="145" width="200" height="50" as="geometry" />
