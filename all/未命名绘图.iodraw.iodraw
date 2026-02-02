@@ -245,16 +245,13 @@
           <mxGeometry x="190" y="-110" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-160" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-125" width="550" height="250" as="geometry" />
+          <mxGeometry x="630" y="-125" width="550" height="205" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-161" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kaggle.com/static/images/site-logo.svg;" vertex="1" parent="1">
           <mxGeometry x="190" y="-72.5" width="64.66" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gstatic.com/devrel-devsite/prod/v6dcfc5a6ab74baade852b535c8a876ff20ade102b870fd5f49da5da2dbf570bd/androidsource/images/lockup.png;" vertex="1" parent="1">
           <mxGeometry x="420" y="-82.5" width="141.92" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-163" value="" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="594.0000000000001" y="260" width="508" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-175" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Model I: Continuous-Time Battery Model&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="790" y="-105" width="260" height="40" as="geometry" />
