@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="Model Architecture" id="kmUuP8fR7HB-TycRkSd7">
-    <mxGraphModel dx="1603" dy="2177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -293,10 +293,10 @@
           <mxGeometry x="269" y="220.61068702290078" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-45" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="600" y="190" width="320" height="300" as="geometry" />
+          <mxGeometry x="600" y="190" width="330" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-46" value="&lt;div&gt;&lt;font color=&quot;#b46504&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;strokeColor=#56517E;strokeWidth=3;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-45">
-          <mxGeometry y="-25.000000000000004" width="320" height="325.00000000000006" as="geometry" />
+          <mxGeometry y="-25" width="330" height="325" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-49" value="&lt;font color=&quot;#49456b&quot; size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;forced-color-adjust: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none; font-size: 20px;&quot;&gt;STATE MOUDLE&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-45">
           <mxGeometry x="80" y="-16.666666666666668" width="200" height="33.333333333333336" as="geometry" />
