@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="Model Architecture" id="kmUuP8fR7HB-TycRkSd7">
-    <mxGraphModel dx="2665" dy="2295" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="1158" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,10 +386,10 @@
           <mxGeometry x="145" y="128" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-81" value="Practical Recommendations for Battery Optimization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=#10202D;fontColor=#ffffff;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1290.6667175292969" y="481.6667175292969" width="400" height="60" as="geometry" />
+          <mxGeometry x="603.9967175292969" y="635.9967175292969" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-82" value="For Smartphone Users" style="swimlane;html=1;startSize=30;horizontal=1;containerType=tree;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#333333;fontStyle=1;dashed=1;rounded=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1136.6667175292969" y="581.6667175292969" width="340" height="320" as="geometry" />
+          <mxGeometry x="449.9967175292969" y="735.9967175292969" width="340" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-83" value="Usage Optimization:&#xa;• Reduce prolonged heavy usage&#xa;• Lower screen brightness&#xa;• Close background applications&#xa;• Prefer Wi-Fi over cellular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#b85450;align=left;spacingLeft=10;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-82">
           <mxGeometry x="20" y="50" width="300" height="100" as="geometry" />
@@ -401,7 +401,7 @@
           <mxGeometry x="70" y="270" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-86" value="For System Designers" style="swimlane;html=1;startSize=30;horizontal=1;containerType=tree;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#333333;fontStyle=1;dashed=1;rounded=1;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1506.6667175292969" y="581.6667175292969" width="340" height="320" as="geometry" />
+          <mxGeometry x="819.9967175292969" y="735.9967175292969" width="340" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-87" value="Strategy Optimization:&#xa;• Scenario-aware battery prediction&#xa;• Adaptive power management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;align=left;spacingLeft=10;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-86">
           <mxGeometry x="20" y="50" width="300" height="80" as="geometry" />
