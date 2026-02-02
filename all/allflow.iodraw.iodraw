@@ -25,21 +25,6 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-63" value="Model Optimization &amp; Analysis" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="213" y="730" width="508" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-64" value="Mode Transition Modeling&#xa;(Non-homogeneous Markov Chain)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;" parent="Y6IpSEHA60PlJjzKSz_8-63" vertex="1">
-          <mxGeometry x="40" y="40" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-65" value="Sensitivity Analysis&#xa;(Temperature &amp; Aging Effects)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;" parent="Y6IpSEHA60PlJjzKSz_8-63" vertex="1">
-          <mxGeometry x="270" y="40" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-66" value="Optimized TTE Prediction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;" parent="Y6IpSEHA60PlJjzKSz_8-63" vertex="1">
-          <mxGeometry x="179" y="110" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-67" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Y6IpSEHA60PlJjzKSz_8-63" source="Y6IpSEHA60PlJjzKSz_8-64" target="Y6IpSEHA60PlJjzKSz_8-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-68" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Y6IpSEHA60PlJjzKSz_8-63" source="Y6IpSEHA60PlJjzKSz_8-65" target="Y6IpSEHA60PlJjzKSz_8-66" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-159" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font size=&quot;1&quot; color=&quot;#003366&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;(a) Data Collection&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="287" y="-112.5" width="360" height="30" as="geometry" />
         </mxCell>
