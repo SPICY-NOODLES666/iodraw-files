@@ -56,7 +56,7 @@
           <mxGeometry x="795" y="-120" width="260" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-176" value="Energy Conservation Law&#xa;dSOC(t)/dt = -P(t)/C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;strokeColor=#b46504;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="750.0000000000001" y="-75" width="200" height="40" as="geometry" />
+          <mxGeometry x="740" y="-75" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-177" value="Power Decomposition" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="980.0000000000001" y="-65" width="150" height="30" as="geometry" />
