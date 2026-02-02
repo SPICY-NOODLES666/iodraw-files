@@ -23,10 +23,10 @@
           <mxGeometry x="-150" y="85" width="469" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SherLock Dataset (User Behavior)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#ae4132;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="179" y="-80" width="150" height="80" as="geometry" />
+          <mxGeometry x="179" y="-80" width="181" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-8" value="AOSP Power Profile&#xa;(Hardware Params)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#ae4132;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-80" width="120" height="80" as="geometry" />
+          <mxGeometry x="410" y="-80" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-11" value="Preprocessing: Filter Charging States &amp; Outliers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="250" y="40" width="280" height="40" as="geometry" />
@@ -290,7 +290,7 @@
           <mxGeometry x="190" y="-72.5" width="64.66" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gstatic.com/devrel-devsite/prod/v6dcfc5a6ab74baade852b535c8a876ff20ade102b870fd5f49da5da2dbf570bd/androidsource/images/lockup.png;" vertex="1" parent="1">
-          <mxGeometry x="350" width="141.92" height="45" as="geometry" />
+          <mxGeometry x="420" y="-82.5" width="141.92" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
