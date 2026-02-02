@@ -22,7 +22,7 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-5" value="Problem Analysis&#xa;Smartphone Battery SOC &amp; TTE Modeling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1;fontSize=14;arcSize=20;dashed=1;strokeWidth=3;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-150" y="85" width="469" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-7" value="SherLock Dataset&#xa;(User Behavior)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#ae4132;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-7" value="SherLock Dataset (User Behavior)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#ae4132;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190" y="-70" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-8" value="AOSP Power Profile&#xa;(Hardware Params)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
