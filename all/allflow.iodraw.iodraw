@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="Model Architecture" id="kmUuP8fR7HB-TycRkSd7">
-    <mxGraphModel dx="1656" dy="1242" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1863" dy="1348" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-5" value="&lt;font color=&quot;#470000&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 29px;&quot;&gt;Problem Analysis:Smartphone Battery SOC &amp;amp; TTE Modeling&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;arcSize=20;dashed=1;strokeWidth=3;rotation=-90;" parent="1" vertex="1">
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-5" value="&lt;font color=&quot;#470000&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 29px;&quot;&gt;View&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=14;arcSize=20;dashed=1;strokeWidth=3;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-315" y="290" width="879" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-159" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;&lt;font size=&quot;1&quot; color=&quot;#003366&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;(a) Data Collection&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
