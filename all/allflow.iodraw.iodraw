@@ -44,10 +44,10 @@
           <mxGeometry x="255" y="-112.5" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-160" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;dashed=1;dashPattern=8 8;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="720" y="-122.5" width="500" height="205" as="geometry" />
+          <mxGeometry x="780" y="-122.5" width="500" height="205" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-175" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;Model I: Continuous-Time Battery Model&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="795" y="-120" width="260" height="25" as="geometry" />
+          <mxGeometry x="855" y="-120" width="260" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-257" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517E;dashed=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="800" height="430" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="570" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-11" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="745" y="-16.5" width="210" height="82.5" as="geometry" />
+          <mxGeometry x="805" y="-16.5" width="210" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-176" value="&lt;font color=&quot;#23445d&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Energy Conservation Law&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#23445d&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#23445d&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#b46504&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;strokeColor=#6C8EBF;strokeWidth=2;" parent="Qkqw4knXdCwXbJK_UcAB-11" vertex="1">
           <mxGeometry width="210" height="82.5" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="51.51999999999998" y="34.38" width="106.95" height="35.65" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="970" y="-16.5" width="230" height="82.5" as="geometry" />
+          <mxGeometry x="1030" y="-16.5" width="230" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-177" value="&lt;font color=&quot;#23445d&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Power Decomposition&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#23445d&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#23445d&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#6e3e02&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;strokeColor=#6C8EBF;strokeWidth=2;" parent="Qkqw4knXdCwXbJK_UcAB-12" vertex="1">
           <mxGeometry width="230" height="82.5" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="187.16000000000008" y="40.63852941176471" width="24.924705882352942" height="24.924705882352942" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="750.25" y="-75" width="439.5" height="44" as="geometry" />
+          <mxGeometry x="810.25" y="-75" width="439.5" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6C8EBF;dashed=1;strokeWidth=2;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-15">
           <mxGeometry width="439.5" height="44" as="geometry" />
