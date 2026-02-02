@@ -59,7 +59,7 @@
           <mxGeometry x="179" y="-110" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-160" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-125" width="550" height="205" as="geometry" />
+          <mxGeometry x="630" y="-122.5" width="550" height="205" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-161" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kaggle.com/static/images/site-logo.svg;" vertex="1" parent="1">
           <mxGeometry x="170" y="-65" width="90.52" height="35" as="geometry" />
@@ -77,16 +77,16 @@
           <mxGeometry x="940.0000000000001" y="-65" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-178" value="Screen" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="670.0000000000001" y="7.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="940.0000000000001" y="30" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-179" value="CPU" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="910.0000000000001" y="-20" width="60" height="40" as="geometry" />
+          <mxGeometry x="950.0000000000001" y="-27.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-180" value="Network" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1010.0000000000001" y="7.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1040" y="-27.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-181" value="GPS/Bg" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="7.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="1030" y="20" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-208" value="Model II: Scenario-based TTE Prediction" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="920" y="300" width="710" height="470" as="geometry" />
