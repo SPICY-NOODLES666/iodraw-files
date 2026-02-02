@@ -23,7 +23,7 @@
           <mxGeometry x="-150" y="85" width="469" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#15749D;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="179" y="-80" width="181" height="70" as="geometry" />
+          <mxGeometry x="179" y="-80" width="221" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-8" value="AOSP Power Profile&#xa;(Hardware Params)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#4c673c;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="-80" width="170" height="80" as="geometry" />
@@ -280,8 +280,8 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-213" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="870" y="390" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-286" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#779dd4&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SherLock Dataset&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="184" y="-78.75" width="230" height="37.5" as="geometry" />
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-286" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#15749d&quot; style=&quot;font-size: 15px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SherLock Dataset&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-78.75" width="216" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-287" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-47.5" width="120" height="37.5" as="geometry" />
