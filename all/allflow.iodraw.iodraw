@@ -323,10 +323,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-25" value="parameter" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d0cee2;strokeWidth=2;strokeColor=#594563;fontFamily=Times New Roman;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-17">
-          <mxGeometry x="180" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="285" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-26" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#D0CEE2;strokeWidth=2;strokeColor=#594563;fontFamily=Times New Roman;arrowWidth=0.3300000000000023;arrowSize=0.565263157894733;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-17">
-          <mxGeometry x="60" y="225" width="200" height="50" as="geometry" />
+          <mxGeometry x="60" y="225" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-27" value="" style="endArrow=classic;html=1;entryX=0.444;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d0cee2;strokeWidth=2;strokeColor=#594563;fontFamily=Times New Roman;" edge="1" parent="Qkqw4knXdCwXbJK_UcAB-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -347,7 +347,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qkqw4knXdCwXbJK_UcAB-30" value="probability" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d0cee2;strokeWidth=2;strokeColor=#594563;fontFamily=Times New Roman;" vertex="1" parent="Qkqw4knXdCwXbJK_UcAB-17">
-          <mxGeometry x="19.950000000000045" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="19.950000000000045" y="285" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
