@@ -22,9 +22,6 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-5" value="Problem Analysis&#xa;Smartphone Battery SOC &amp; TTE Modeling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontStyle=1;fontSize=14;arcSize=20;dashed=1;strokeWidth=3;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-150" y="85" width="469" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;strokeColor=#4C673C;fontSize=11;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="-75" width="224" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-11" value="Preprocessing: Filter Charging States &amp; Outliers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="215" y="12.5" width="280" height="40" as="geometry" />
         </mxCell>
@@ -57,9 +54,6 @@
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-160" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;dashed=1;dashPattern=8 8;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="680" y="-122.5" width="500" height="205" as="geometry" />
-        </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gstatic.com/devrel-devsite/prod/v6dcfc5a6ab74baade852b535c8a876ff20ade102b870fd5f49da5da2dbf570bd/androidsource/images/lockup.png;clipPath=inset(0.77% 73.41% 0% 0%);" vertex="1" parent="1">
-          <mxGeometry x="440" y="-69.59" width="50" height="59.18" as="geometry" />
         </mxCell>
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-175" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Model I: Continuous-Time Battery Model&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="790" y="-105" width="260" height="40" as="geometry" />
@@ -292,14 +286,23 @@
         <mxCell id="Y6IpSEHA60PlJjzKSz_8-285" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;User Behavior&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Y6IpSEHA60PlJjzKSz_8-289">
           <mxGeometry x="129" y="31" width="100" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-290" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#3c5230&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;AOSP Power Profile&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="-75" width="150" height="25" as="geometry" />
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-292" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="422" y="-75" width="228" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-291" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBEBEB;strokeColor=#4C673C;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-44" width="120" height="27.5" as="geometry" />
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBDBDB;strokeColor=#4C673C;fontSize=11;strokeWidth=2;" vertex="1" parent="Y6IpSEHA60PlJjzKSz_8-292">
+          <mxGeometry width="224" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Y6IpSEHA60PlJjzKSz_8-288" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hardware Params&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-46" width="130" height="25" as="geometry" />
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-162" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gstatic.com/devrel-devsite/prod/v6dcfc5a6ab74baade852b535c8a876ff20ade102b870fd5f49da5da2dbf570bd/androidsource/images/lockup.png;clipPath=inset(0.77% 73.41% 0% 0%);" vertex="1" parent="Y6IpSEHA60PlJjzKSz_8-292">
+          <mxGeometry x="18" y="5.409999999999997" width="50" height="59.18" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-290" value="&lt;span style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#3c5230&quot; size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;AOSP Power Profile&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Y6IpSEHA60PlJjzKSz_8-292">
+          <mxGeometry x="73" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-291" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EBEBEB;strokeColor=#4C673C;dashed=1;strokeWidth=2;" vertex="1" parent="Y6IpSEHA60PlJjzKSz_8-292">
+          <mxGeometry x="88" y="31" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6IpSEHA60PlJjzKSz_8-288" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Hardware Params&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Y6IpSEHA60PlJjzKSz_8-292">
+          <mxGeometry x="98" y="29" width="130" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
