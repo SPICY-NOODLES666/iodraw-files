@@ -88,6 +88,9 @@
             <mxPoint x="200" y="325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uNL76fQ_y6hne5sKtHnY-1" value="flowchart LR&#xa;    clk[clk_50m]&#xa;    rst[rst_n]&#xa;    sw[sw_key]&#xa;&#xa;&#xa;    subgraph U_rgb_led[rgb_led 顶层模块]&#xa;        subgraph DIV[分频计数器]&#xa;            cnt[cnt(26位计数器)]&#xa;            end_cnt[end_cnt 节拍脉冲]&#xa;        end&#xa;&#xa;&#xa;        subgraph FSM[颜色状态机]&#xa;            state[state(3位状态寄存器)]&#xa;        end&#xa;&#xa;&#xa;        subgraph OUTLOGIC[输出译码与寄存]&#xa;            rgb1_r[rgb1_r(3位)]&#xa;            rgb2_r[rgb2_r(3位)]&#xa;            rgb3_r[rgb3_r(3位)]&#xa;            rgb4_r[rgb4_r(3位)]&#xa;            led_r[led_r(8位)]&#xa;        end&#xa;    end&#xa;&#xa;&#xa;    rgb1[rgb1[2:0]]&#xa;    rgb2[rgb2[2:0]]&#xa;    rgb3[rgb3[2:0]]&#xa;    rgb4[rgb4[2:0]]&#xa;    led[led[7:0]]&#xa;&#xa;&#xa;    clk --&gt; DIV&#xa;    rst --&gt; DIV&#xa;    sw  --&gt; DIV&#xa;&#xa;&#xa;    DIV --&gt; end_cnt&#xa;    clk --&gt; FSM&#xa;    rst --&gt; FSM&#xa;    sw  --&gt; FSM&#xa;    end_cnt --&gt; FSM&#xa;&#xa;&#xa;    FSM --&gt; OUTLOGIC&#xa;    clk --&gt; OUTLOGIC&#xa;    rst --&gt; OUTLOGIC&#xa;    sw  --&gt; OUTLOGIC&#xa;&#xa;&#xa;    OUTLOGIC --&gt; rgb1&#xa;    OUTLOGIC --&gt; rgb2&#xa;    OUTLOGIC --&gt; rgb3&#xa;    OUTLOGIC --&gt; rgb4&#xa;    OUTLOGIC --&gt; led" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="270" height="860" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
