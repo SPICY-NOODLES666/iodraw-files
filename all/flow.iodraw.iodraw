@@ -53,8 +53,8 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-20" value="Error State Linearization" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="335" y="260" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-22" value="High-frequency specific force and angular rate" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="350" width="280" height="40" as="geometry" />
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-22" value="High-frequency specific force and angular rate" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="105" y="175" width="155" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
