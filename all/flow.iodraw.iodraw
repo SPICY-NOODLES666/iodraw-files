@@ -97,6 +97,9 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-27" value="GNSS Visible Satellite Number N Judgment" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="120" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-28" target="eM-8X-L4sCSD6lJKOQJT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-28" value="GNSS-dominated + 5G-assisted" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="403.25" y="380" width="197.5" height="30" as="geometry" />
         </mxCell>
@@ -117,6 +120,9 @@
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-35" value="Final High-Precision Navigation Solution" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="890" y="207.5" width="120" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-29" target="eM-8X-L4sCSD6lJKOQJT-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
