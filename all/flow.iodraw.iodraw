@@ -41,13 +41,13 @@
           <mxGeometry x="520" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-18" value="Time Update" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="395" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="395" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-19" value="Error State Jacobian Matrix" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-20" value="Error State Linearization" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="160" height="40" as="geometry" />
+          <mxGeometry x="335" y="270" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
