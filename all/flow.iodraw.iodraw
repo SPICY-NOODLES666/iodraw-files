@@ -62,7 +62,7 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-24" value="GNSS/5G Fusion:" style="text;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="70" y="340" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;strokeWidth=2;strokeColor=#FF8000;dashed=1;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-25" target="eM-8X-L4sCSD6lJKOQJT-27">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-25" target="eM-8X-L4sCSD6lJKOQJT-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="420" />
@@ -73,7 +73,7 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-25" value="GNSS Receiver" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;strokeWidth=2;strokeColor=#FF8000;dashed=1;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-26">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="460" as="targetPoint" />
             <Array as="points">
@@ -85,19 +85,19 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-26" value="5G Receiver Terminal" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="70" y="480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-27" target="eM-8X-L4sCSD6lJKOQJT-29">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-27" target="eM-8X-L4sCSD6lJKOQJT-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-27" target="eM-8X-L4sCSD6lJKOQJT-28">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-27" target="eM-8X-L4sCSD6lJKOQJT-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-27" target="eM-8X-L4sCSD6lJKOQJT-30">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-27" target="eM-8X-L4sCSD6lJKOQJT-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-27" value="GNSS Visible Satellite Number N Judgment" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="410" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-28" target="eM-8X-L4sCSD6lJKOQJT-32">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-28" target="eM-8X-L4sCSD6lJKOQJT-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-28" value="GNSS-dominated + 5G-assisted" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
@@ -106,7 +106,7 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-29" value="GNSS/5G Joint Solution" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="403.25" y="445" width="197.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-30" target="eM-8X-L4sCSD6lJKOQJT-31">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-30" target="eM-8X-L4sCSD6lJKOQJT-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-30" value="5G-only Constraint" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
@@ -124,7 +124,7 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-35" value="Final High-Precision Navigation Solution" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="890" y="207.5" width="120" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-29" target="eM-8X-L4sCSD6lJKOQJT-31">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-29" target="eM-8X-L4sCSD6lJKOQJT-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
