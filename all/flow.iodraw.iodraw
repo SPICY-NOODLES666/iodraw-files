@@ -146,7 +146,7 @@
           <mxGeometry x="780" y="213.75" width="100" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-35" value="Final High-Precision Navigation Solution" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="910" y="213.75" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="910" y="213.75" width="130" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF8000;strokeWidth=2;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-29" target="eM-8X-L4sCSD6lJKOQJT-31">
           <mxGeometry relative="1" as="geometry" />
