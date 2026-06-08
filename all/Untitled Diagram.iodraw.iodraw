@@ -7,6 +7,9 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-3" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;IMU Positioning Process:&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-4" value="IMU" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
