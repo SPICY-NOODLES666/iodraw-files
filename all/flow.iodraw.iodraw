@@ -1,0 +1,25 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="opbZ7Wzb75Kt9Mfo4eSI">
+    <mxGraphModel dx="1185" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-3" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;IMU Positioning Process:&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="410" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
