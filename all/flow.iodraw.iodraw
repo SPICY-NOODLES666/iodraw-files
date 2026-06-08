@@ -32,13 +32,13 @@
           <mxGeometry x="420" y="220" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-11" value="&lt;b&gt;Error State Linearization&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="510" y="270" width="110" height="40" as="geometry" />
+          <mxGeometry x="510" y="260" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF8000;dashed=1;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-12" target="eM-8X-L4sCSD6lJKOQJT-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-12" value="&lt;b&gt;Update IMU Bias&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="520" y="170" width="110" height="30" as="geometry" />
+          <mxGeometry x="520" y="180" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-18" value="Time Update" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="395" y="160" width="100" height="40" as="geometry" />
