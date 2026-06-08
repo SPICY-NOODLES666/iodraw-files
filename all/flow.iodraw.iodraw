@@ -69,7 +69,7 @@
           <mxGeometry x="80" y="480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-27" value="GNSS Visible Satellite Number N Judgment" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="410" width="120" height="100" as="geometry" />
+          <mxGeometry x="230" y="410" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-28" value="GNSS-dominated + 5G-assisted" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="390" width="197.5" height="30" as="geometry" />
@@ -77,7 +77,7 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-29" value="GNSS/5G Joint Solution" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="450" width="197.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-30" value="GNSS/5G Joint Solution" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-30" value="5G-only Constraint" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="510" width="197.5" height="30" as="geometry" />
         </mxCell>
       </root>
