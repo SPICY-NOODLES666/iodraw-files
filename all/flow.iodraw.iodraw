@@ -162,8 +162,8 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-58" value="Next Iteration" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="810" y="540" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-59" value="Error State Reset" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="460" width="130" height="40" as="geometry" />
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-59" value="Error State Reset" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="495" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
