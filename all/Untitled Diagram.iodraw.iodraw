@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-3" value="IMU Positioning Process:" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-3" value="&lt;b&gt;IMU Positioning Process:&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
