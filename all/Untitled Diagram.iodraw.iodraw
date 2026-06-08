@@ -7,11 +7,8 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-3" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;IMU Positioning Process:&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="240" y="160" width="360" height="160" as="geometry" />
