@@ -41,7 +41,10 @@
           <mxGeometry x="530" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-18" value="Time Update" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="180" width="100" height="40" as="geometry" />
+          <mxGeometry x="395" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-19" value="Error State Jacobian Matrix" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="270" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
