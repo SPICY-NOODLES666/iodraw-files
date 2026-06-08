@@ -172,6 +172,9 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-61" value="Predicted Covariance" style="text;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="677" y="260" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-7" target="eM-8X-L4sCSD6lJKOQJT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
