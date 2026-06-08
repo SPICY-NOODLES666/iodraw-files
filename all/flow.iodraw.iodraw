@@ -65,7 +65,7 @@
           <mxGeometry x="164" y="200" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-24" value="GNSS/5G Fusion:" style="text;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontColor=#000099;" vertex="1" parent="1">
-          <mxGeometry x="70" y="340" width="130" height="40" as="geometry" />
+          <mxGeometry x="70" y="310" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="1" source="eM-8X-L4sCSD6lJKOQJT-25" target="eM-8X-L4sCSD6lJKOQJT-27">
           <mxGeometry relative="1" as="geometry">
@@ -166,7 +166,7 @@
           <mxGeometry x="900" y="495" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-60" value="IMU Cumulative Error Correction" style="text;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="890" y="385" width="120" height="40" as="geometry" />
+          <mxGeometry x="890" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
