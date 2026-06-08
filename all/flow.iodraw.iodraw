@@ -86,6 +86,9 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-32" value="ESKF Measurement Update" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="650" y="425" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
