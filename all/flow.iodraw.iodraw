@@ -165,8 +165,8 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-59" value="Error State Reset" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="495" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-60" value="IMU Cumulative Error Correction" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="430" width="210" height="40" as="geometry" />
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-60" value="IMU Cumulative Error Correction" style="text;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="385" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
