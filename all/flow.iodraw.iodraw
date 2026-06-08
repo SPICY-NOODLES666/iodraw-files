@@ -57,7 +57,7 @@
           <mxGeometry x="335" y="260" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-22" value="High-frequency specific force and angular rate" style="text;whiteSpace=wrap;html=1;fontStyle=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="115" y="180" width="125" height="40" as="geometry" />
+          <mxGeometry x="115" y="170" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-24" value="GNSS/5G Fusion:" style="text;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1;fontColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="70" y="340" width="130" height="40" as="geometry" />
