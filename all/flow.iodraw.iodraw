@@ -124,7 +124,7 @@
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-32" value="ESKF Measurement Update" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="667" y="425" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eM-8X-L4sCSD6lJKOQJT-34" value="Nominal State&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eM-8X-L4sCSD6lJKOQJT-34" value="Nominal State&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="760" y="207.5" width="100" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-35" value="Final High-Precision Navigation Solution" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#000000;" vertex="1" parent="1">
