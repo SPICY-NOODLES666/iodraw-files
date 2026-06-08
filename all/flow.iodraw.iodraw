@@ -23,7 +23,7 @@
           <mxGeometry x="490" y="270" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eM-8X-L4sCSD6lJKOQJT-12" value="&lt;b&gt;Update IMU Bias&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="170" width="110" height="30" as="geometry" />
+          <mxGeometry x="510" y="170" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
